@@ -18,14 +18,14 @@ const support = {
       id: 'sample-page',
       title: 'Sample Page',
       type: 'item',
-      url: '/sample-page',
+      url: '',
       icon: icons.ChromeOutlined
     },
     {
       id: 'documentation',
       title: 'Documentation',
       type: 'item',
-      url: 'https://codedthemes.gitbook.io/mantis/',
+      url: '',
       icon: icons.QuestionOutlined,
       external: true,
       target: true
